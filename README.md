@@ -16,7 +16,7 @@ git2 = "0.7"
 
 Currently this library requires libgit2 0.25.1. The source for libgit2 is
 included in the libgit2-sys crate so there's no need to pre-install the libgit2
-library, the libgit2-sys crate will figure that and/or build that for you.
+library, the libgit2-sys crate will figure that out and/or build that for you.
 
 ## Building git2-rs
 
